@@ -13,7 +13,7 @@
 ## Resolving Power
 
 We do not recommend using materials with resolutions below 8 pixels
-
+px = pixels
 - 1x 1*1 px
 - 2x 2*2 px
 - 3x 3*3 px
